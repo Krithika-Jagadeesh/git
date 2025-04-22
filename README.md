@@ -1,5 +1,6 @@
 # Customer Behavior Analysis
 Customer Behavior Analysis: Insights and Strategies
+
 **Introduction**
 _- Objective:_ Understanding customer behavior through data to drive actionable business strategies.
 _- Role of a Data Analyst:_ Uncovering trends and providing insights that directly impact decision-making and customer experience.
